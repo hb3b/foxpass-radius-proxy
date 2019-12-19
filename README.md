@@ -7,7 +7,7 @@ All
 ===
 Create a Radius Client (on this page: https://www.foxpass.com/settings/radclients/) from the proxy's *public* ip address. Note the shared secret.
 
-Configure your endpoint to point to this server's IP address (usually the internal address) on pot 1812, using the shared secret from above.
+Configure your endpoint to point to this server's IP address (usually the internal address) on port 1812, using the shared secret from above.
 
 Linux (Ubuntu)
 =====
